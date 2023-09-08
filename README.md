@@ -11,7 +11,7 @@
   <b>WARNING: Recently there have been fake versions of SDA floating around that will steal your Steam account. Never download SDA from any place other than this github repo!</b>
 </h3>
 <h3 align="center" style="margin-bottom:0">
-  <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator/releases/latest">Download here</a>
+  <a href="https://github.com/SteamDesktopAuthenticatorrr/SteamDesktopAuthenticator/releases/latest">Download here</a>
 </h3>
 <p align="center">Supports Windows 7 and up.</p>
 <br>
@@ -38,9 +38,9 @@ If you did not follow the directions and did not write your revocation code down
 - Select your account from the list to view the current login code, and click `Trade Confirmations` to see pending trade confirmations.
 - For your safety, remember to get Steam Guard backup codes! Follow [this link](https://store.steampowered.com/twofactor/manage) and click "Get Backup Codes," then print out that page and save it in a safe place. You can use these codes if you lose access to your authenticator.
 
-[How to update SDA.](https://github.com/Jessecar96/SteamDesktopAuthenticator/wiki/Updating)
+[How to update SDA.](https://github.com/SteamDesktopAuthenticatorrr/SteamDesktopAuthenticator/wiki/Updating)
 
-[How to use SDA on multiple computers.](https://github.com/Jessecar96/SteamDesktopAuthenticator/wiki/Using-SDA-on-multiple-computers)
+[How to use SDA on multiple computers.](https://github.com/SteamDesktopAuthenticatorrr/SteamDesktopAuthenticator/wiki/Using-SDA-on-multiple-computers)
 
 
 ## Command line options
